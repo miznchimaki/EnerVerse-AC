@@ -134,3 +134,5 @@ runtime_vis_results/*
 
 log
 log/*
+logs
+outputs
